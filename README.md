@@ -6,7 +6,7 @@ I am a Mechanical Engineer with a strong interest in transitioning into the tech
 
 ## What I’m Working On
 
-* Currently studying and building projects at **42**
+* Currently studying and building projects at **42 Beirut**
 * Actively working on multiple programming projects
 * Focused on strengthening my skills in logic, algorithms, and software development
 
